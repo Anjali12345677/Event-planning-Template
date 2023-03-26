@@ -5,10 +5,15 @@ This repository contains an interactive E-commerce template created using HTML, 
 Features
 
 Responsive design with Bootstrap grid system
+
 Dynamic menu with smooth scrolling
+
 Video tag for showcasing products or services
+
 Form for user input
+
 Social media links
+
 
 Usage
 
