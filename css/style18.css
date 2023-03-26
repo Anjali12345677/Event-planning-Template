@@ -1,0 +1,373 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.nav-bar{
+    background-color: #fff;
+    width: 100%;
+}
+.nav-bar i{
+    font-size: 60px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
+    position: relative;
+    top: -20px;
+    float: left;
+}
+.nav-list li{
+    list-style: none;
+}
+.nav-list a{
+    text-decoration: none;
+    color: black;
+}
+.about-service{
+    background-image: url(../images/background/proj18about-home-bk.jpg);
+    width: 100%;
+    height: auto;
+    padding-bottom: 50px;
+    margin-top: -20px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.nav-button a{
+    text-decoration: none;
+    color: #fff;
+    background-color: rgb(244, 111, 62);
+    padding: 10px 30px 10px 30px;
+}
+.about-service{
+    padding: 0px 20px;
+    text-align: center;
+}
+.about-service-0 h1{
+    margin-bottom: 1rem;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 2rem;
+    font-weight: 600;
+    line-height: 1;
+    box-sizing: border-box;
+    text-align: center;
+}
+.about-service-0 p{
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 950px;
+    text-align: center;
+    font-size: 100%;
+}
+.about-service-0 a{
+    text-decoration: none;
+    color: #fff;
+}
+.button {
+    background: #000;
+    border: 0;
+    color: #fff;
+    display: block;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    line-height: 100%;
+    margin: 1rem auto 0;
+    text-align: center;
+    font-size: 100%;
+    max-width: 350px;
+    min-width: 250px;
+    padding: 1.2rem;
+    text-decoration: none;
+}
+
+.section-title-0{
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+.section-title a{
+    padding-top: 20px;
+    text-decoration: #fff;
+    color: #3c6ab4;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 30px;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 700;
+}
+.section-icon{
+    height: 150px;
+    width: 155px;
+    border: 5px solid #eee;
+    border-radius: 100%;
+    display: block;
+    /* height: 150px; */
+    padding: 2rem;
+    margin: 0 auto;
+    text-align: center;
+
+}
+.section-icon a{
+    color: #3c6ab4;
+    text-decoration: none;
+    font-size: 80px;
+    text-align: center;
+    position: relative;
+    top: -22px;
+    margin: 5px;
+}
+.section-4{
+    padding:40px 10px;
+    text-align: center;
+}
+.button-0{
+    background: #242424;
+    color: #fff;
+    text-decoration: none;
+    padding: 15px 65px 15px 65px;
+    font-size: 1rem;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    margin: 0 auto;
+}
+.button-div{
+    padding-top: 90px;
+}
+
+.block-process{
+    margin-top: 30px;
+    background-image:url(../images/background/proj18our-process-home-bk.jpg);
+    width: 100%;
+    height: auto;
+    padding-bottom: 70px;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 0px 30px;
+    text-align: center;
+}
+.block-process h2{
+    padding-top: 30px;
+    color: #ffff;
+    font-size: 35px;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 25px;
+}
+.field-item{
+    margin-top: 30px;
+    background-color: #000;
+    text-align: center;
+    padding: 0px 10px;
+    padding-bottom: 50px;
+    margin-bottom: 10px;
+}
+.field-item i{
+    color: #ffff;
+    font-size: 100px;
+    padding-bottom: 0px;
+}
+.field-item h3{
+    color: #fff;
+    font-weight: 900;
+    margin: 1rem 0;
+    font-size: 1.5em;
+    line-height: 1.2;
+    margin-top: -20px;
+}
+.field-item p{
+    color: #ffff;
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+.field-item a {
+   background: #3c6ab4;
+   color: #fff;
+   text-decoration: none;
+   padding: 15px 60px 15px 60px;
+   font-size: 1rem;
+   font-family: 'Open Sans', sans-serif;
+   font-weight: 700;
+  }
+.field-item a i{
+    font-size: 15px;
+}
+.featured-bottom{
+    background-image: url(../images/background/proj18home-grey-bk.jpg);
+    padding-top: 15px;
+    width: 100%;
+    height: auto;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 0px 30px;
+    text-align: center;
+    padding-bottom: 30px;
+}
+.featured-bottom_0{
+    background-image: url(../images/background/proj18big-ideas.jpg);
+    box-shadow: 0px 0px 10px 2px rgba(0, 0, 0, .15);
+    width: auto;
+    height: auto;
+    margin-top: 30px;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 30px;
+    text-align: center;
+    padding: 0px 15px;
+    padding-bottom: 70px;
+}
+.featured-bottom_0 h2{
+    padding-top: 50px;
+    font-family: "Open Sans", sans-serif;
+    text-transform: uppercase;
+    line-height: 1;
+    font-size: 2rem;
+    font-weight: 500;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+.featured-bottom_0  p{
+    font-size: 18px;
+}
+.featured-bottom_1{
+    background-image: url(../images/background/proj18our-team-home-bk.jpg);
+    box-shadow: 0px 0px 10px 2px rgba(0, 0, 0, .15);
+    width: auto;
+    height: auto;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding: 0px 15px;
+    padding-bottom: 70px;
+}
+.featured-bottom_1 h2{
+    padding-top: 50px;
+    font-family: "Open Sans", sans-serif;
+    text-transform: uppercase;
+    line-height: 1;
+    font-size: 2rem;
+    font-weight: 500;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+.featured-bottom_1  p{
+    font-size: 18px;
+}
+.client{
+    padding: 0px 20px;
+    text-align: center;
+}
+.client h2{ 
+    padding-top: 40px;
+   color: #3c6ab4;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 2rem;
+    font-weight: 900;
+    margin-bottom: 2rem;
+    
+}
+.clutch{
+    background-image: url(../images/background/proj18clutch-bk.jpg);
+    /* text-align: center; */
+    width: 100%;
+    height: auto;
+    /* padding: 1rem; */
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 0px 10px;
+}
+.social-media a{
+    text-decoration: none;
+    color: #ffff;
+}
+.social-media li{
+    list-style: none;
+    font-size: 1.5rem;
+    padding-left: 4px;
+}
+
+.social-media{
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-evenly;
+}
+.footer_1{
+    background-color: #252525;
+    text-align: center;
+}
+.footer-address a{
+    text-decoration: none;
+}
+.footer-address li{
+    list-style: none;
+}
+.copywrite{
+    padding-top: 100px;
+}
+.form-0{
+    background-image: url(../images/background/proj18contact-home-bk.jpg);
+    width: 100%;
+    height: auto;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding-bottom: 70px;
+    padding-top: 20px;
+}
+.form-9 input{
+    background: #fff;
+border: 3px solid #ccc;
+color: inherit;
+height: 60px;
+padding: 0px 12px;
+width: 80%;
+}
+.button-1{
+    background: #242424;
+    color: #fff;
+    text-decoration: none;
+    padding: 15px 65px 15px 65px;
+    font-size: 1rem;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    margin: 0 auto;
+}
+.form-9 textarea {
+    background: #fff;
+    border: 3px solid #ccc;
+    color: inherit;
+    height: 60px;
+    padding: 0px 12px;
+    width: 80%;
+}
+.form-0 h2{
+   font-family: 'Open Sans', sans-serif;
+   font-size: 45px;
+}
+.form-0 p{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px; 
+}
+
+@media (min-width:992px){
+    
+    .section-icon{
+    border: 7px solid #eee;
+     }
+.section-icon a{
+    position: relative;
+    top: -25px;
+}
+.footer-bottom{
+    width: 79%;
+    margin: 0 auto;
+  }
+@media (min-width:1200px){
+    .anj{
+        width: 100%;
+        margin: 0 auto;
+    }
+}
